@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="text1">Welcome to MaxPlayer</string>
+    <string name="text2">Access to files is required to continue</string>
+</resources>
